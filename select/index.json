@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "グッバイ",
+  "base_artist": "berry meet",
+  "createdAt": "2026-02-14T16:22:22.741213Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グッバイ・マイ・ラヴァー",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/01_グッバイ・マイ・ラヴァー_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "グッバイ、ロックンロール feat.鏡音レン",
+      "artist": "Neru",
+      "has_synced": true,
+      "path": "select/02_グッバイ、ロックンロール_feat.鏡音レン_Neru.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "グッバイ・ボーイ",
+      "artist": "アン・ルイス",
+      "has_synced": false,
+      "path": "select/03_グッバイ・ボーイ_アン・ルイス.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハロー、グッバイ",
+      "artist": "シャルロ",
+      "has_synced": false,
+      "path": "select/04_ハロー、グッバイ_シャルロ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハロー、グッバイ (stripped down)",
+      "artist": "シャルロ",
+      "has_synced": false,
+      "path": "select/05_ハロー、グッバイ_(stripped_down)_シャルロ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "グッバイ・アイザック",
+      "artist": "Motohiro Hata",
+      "has_synced": true,
+      "path": "select/06_グッバイ・アイザック_Motohiro_Hata.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "グッバイ・マイ・グルーミーデイズ",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/07_グッバイ・マイ・グルーミーデイズ_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "グッバイ",
+      "artist": "ミドリ",
+      "has_synced": true,
+      "path": "select/08_グッバイ_ミドリ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "グッバイ・アンブレラ",
+      "artist": "東山奈央",
+      "has_synced": false,
+      "path": "select/09_グッバイ・アンブレラ_東山奈央.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "グッバイ、ロックンロール",
+      "artist": "Neru; 鏡音レン",
+      "has_synced": true,
+      "path": "select/10_グッバイ、ロックンロール_Neru;_鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "グッバイ",
+      "artist": "4MINUTE",
+      "has_synced": true,
+      "path": "select/11_グッバイ_4MINUTE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ハロー・グッバイ",
+      "artist": "Yoshie Kashiwabara",
+      "has_synced": true,
+      "path": "select/12_ハロー・グッバイ_Yoshie_Kashiwabara.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ハロー・グッバイ",
+      "artist": "柏原芳恵",
+      "has_synced": true,
+      "path": "select/13_ハロー・グッバイ_柏原芳恵.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "グッデイ・グッバイ",
+      "artist": "KIRINJI",
+      "has_synced": true,
+      "path": "select/14_グッデイ・グッバイ_KIRINJI.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "グッバイ・マイ・フレンド",
+      "artist": "牧野由依",
+      "has_synced": false,
+      "path": "select/15_グッバイ・マイ・フレンド_牧野由依.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "グッバイ・ロックンロール",
+      "artist": "Neru feat. 鏡音レン",
+      "has_synced": true,
+      "path": "select/16_グッバイ・ロックンロール_Neru_feat._鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "グッバイ・ティーンエイジャー",
+      "artist": "MADKID",
+      "has_synced": true,
+      "path": "select/17_グッバイ・ティーンエイジャー_MADKID.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グッバイ",
+      "artist": "berry meet",
+      "has_synced": false,
+      "path": "select/pl_01_グッバイ_berry_meet.txt"
+    }
+  ]
+}
